@@ -4,5 +4,5 @@
 Design Pattern 學習筆記
 
 #### 目錄 
-- Singleton
-- Template Method
+- [Singleton]()
+- [Template Method](./TemplateMethod)
